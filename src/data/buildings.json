@@ -1,0 +1,4328 @@
+[
+  {
+    "id": "1",
+    "stand": "1,2,3",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "NUOVA TIRRENIA PESCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "05655231008",
+        "telefono": "0660502712",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/nuova-tirrenia-pesca-srl"
+      }
+    ]
+  },
+  {
+    "id": "1_EST",
+    "stand": "1 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Azienda Agricola Fratelli Raschiatore 1 S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1511500660",
+        "telefono": "(0863) 931103",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-fratelli-raschiatore-1-s.s."
+      },
+      {
+        "nome_azienda": "Compagno Fabio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2017980596",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/compagno-fabio-2"
+      },
+      {
+        "nome_azienda": "D'Ambrogio Giampiero 2",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2916970599",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/d'ambrogio-giampiero-2"
+      },
+      {
+        "nome_azienda": "La Piana di Sezze",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2477880591",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-piana-di-sezze"
+      },
+      {
+        "nome_azienda": "Marini Sandro",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2643390590",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/marini-sandro"
+      },
+      {
+        "nome_azienda": "Seri Franco",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "8235231004",
+        "telefono": "(06) 99204293",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/seri-franco"
+      },
+      {
+        "nome_azienda": "Seri Mario",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "8235231001",
+        "telefono": "(06) 99204293",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/seri-mario"
+      },
+      {
+        "nome_azienda": "Società Agricola Campoli Sergio, Rossi Saturnina e Figli S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2354370591",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-campoli-sergio,-rossi-saturnina-e-figli-s.s."
+      },
+      {
+        "nome_azienda": "Società Semplice Fratelli Tornesi",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2691590596",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-semplice-fratelli-tornesi"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "stand": "1,2,3",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "NUOVA TIRRENIA PESCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "05655231008",
+        "telefono": "0660502712",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/nuova-tirrenia-pesca-srl"
+      }
+    ]
+  },
+  {
+    "id": "2_EST",
+    "stand": "2 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Az.Agr. F.lli Milletti S.A.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1918031004",
+        "telefono": "(06) 9375902",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/az.agr.-f.lli-milletti-s.a.s."
+      },
+      {
+        "nome_azienda": "Azienda Agricola Renzetti Orlando S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "14699271004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-renzetti-orlando-s.s."
+      },
+      {
+        "nome_azienda": "Cresca Pietro",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4485971008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cresca-pietro"
+      },
+      {
+        "nome_azienda": "Cresca Stefano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "6424641006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cresca-stefano"
+      },
+      {
+        "nome_azienda": "De Angelis Paolo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "15096011000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/de-angelis-paolo"
+      },
+      {
+        "nome_azienda": "Fiorentino Luca",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "05097321003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fiorentino-luca"
+      },
+      {
+        "nome_azienda": "Guernaccini Claudio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "5657481007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/guernaccini-claudio"
+      },
+      {
+        "nome_azienda": "Mirabella Franco",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "601620594",
+        "telefono": "(0773) 899570",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mirabella-franco"
+      },
+      {
+        "nome_azienda": "A.A. Di Garbaglia Enzo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "17885571004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/a.a.-di-garbaglia-enzo"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "stand": "1,2,3",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "NUOVA TIRRENIA PESCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "05655231008",
+        "telefono": "0660502712",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/nuova-tirrenia-pesca-srl"
+      }
+    ]
+  },
+  {
+    "id": "3_EST",
+    "stand": "3 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRATELLI BOSCARINO & C. Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01006150880",
+        "telefono": "0660501301",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fratelli-boscarino-&-c.-srl"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "stand": "4",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "DEAN PESCA I Srl",
+        "tipologia": "Grossista",
+        "p_iva": "11439471001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/dean-pesca-i-srl"
+      }
+    ]
+  },
+  {
+    "id": "4_EST",
+    "stand": "4 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Bottoni Luigi",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1258180593",
+        "telefono": "(0773) 899116",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/bottoni-luigi"
+      },
+      {
+        "nome_azienda": "Cantarelli Domenico",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1841220591",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cantarelli-domenico"
+      },
+      {
+        "nome_azienda": "Cantarelli Riccardo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3282680598",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cantarelli-riccardo"
+      },
+      {
+        "nome_azienda": "Delle Fratte Massimiliano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "6424681002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/delle-fratte-massimiliano"
+      },
+      {
+        "nome_azienda": "ODESSA Soc. coop. A R.L.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1967400597",
+        "telefono": "(0773) 258691",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/odessa-soc.-coop.-a-r.l."
+      },
+      {
+        "nome_azienda": "Orlandi Antonio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4493231007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/orlandi-antonio"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "stand": "5",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "LA MURENA dei Fratelli Cartocci Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00881181002",
+        "telefono": "0660502520",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-murena-dei-fratelli-cartocci-srl"
+      }
+    ]
+  },
+  {
+    "id": "5_EST",
+    "stand": "5,56,57 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "RUOCCO DISTRIBUZIONE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "989681002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ruocco-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "6_EST",
+    "stand": "6,7 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "PEGASO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "1057721001",
+        "telefono": "0660501330",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/pegaso-srl"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "stand": "7",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "F.LLI TRINCA Semplificata Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12076971006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-trinca-semplificata-srl"
+      }
+    ]
+  },
+  {
+    "id": "7_EST",
+    "stand": "6,7 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "PEGASO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "1057721001",
+        "telefono": "0660501330",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/pegaso-srl"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "stand": "8",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "DE MAGGIO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "07932140580",
+        "telefono": "'0660502731",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/de-maggio-srl"
+      }
+    ]
+  },
+  {
+    "id": "8_EST",
+    "stand": "8, 9 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Alimentari Ortofrutticoli ABC Spa",
+        "tipologia": "Grossista",
+        "p_iva": "00877161000",
+        "telefono": "0660501521",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/alimentari-ortofrutticoli-abc-spa"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "stand": "9",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "MARRO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00934041005",
+        "telefono": "0660502560",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/marro-srl"
+      },
+      {
+        "nome_azienda": "MEDIMAR Srl",
+        "tipologia": "Grossista",
+        "p_iva": "17852031008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/medimar-srl"
+      }
+    ]
+  },
+  {
+    "id": "9_EST",
+    "stand": "8, 9 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Alimentari Ortofrutticoli ABC Spa",
+        "tipologia": "Grossista",
+        "p_iva": "00877161000",
+        "telefono": "0660501521",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/alimentari-ortofrutticoli-abc-spa"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "stand": "10",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "COOPERATIVA PESCATORI ARBOREA Scarl",
+        "tipologia": "Grossista",
+        "p_iva": "43460955",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cooperativa-pescatori-arborea-scarl"
+      }
+    ]
+  },
+  {
+    "id": "10_EST",
+    "stand": "10 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "DE GREGORI Aldo Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01223111004",
+        "telefono": "0660501372",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/de-gregori-aldo-srl"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "stand": "11",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "F.LLI D'ANDRASSI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13469021003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-d'andrassi-srl"
+      }
+    ]
+  },
+  {
+    "id": "11_EST",
+    "stand": "11 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "CESTIAFRUTTA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01049611005",
+        "telefono": "0660501381",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cestiafrutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "stand": "12",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "IL MARINAIO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "05658471007",
+        "telefono": "0660502590",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/il-marinaio-srl"
+      }
+    ]
+  },
+  {
+    "id": "12_EST",
+    "stand": "12 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRATELLI D'ELIA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00888171006",
+        "telefono": "0660501391",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fratelli-d'elia-srl"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "stand": "13",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "SENEGAL & GREECE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "14957671002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/senegal-&-greece-srl"
+      }
+    ]
+  },
+  {
+    "id": "13_EST",
+    "stand": "13 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "LA FENICE ORTOFRUTTA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "16690631003",
+        "telefono": "0660502273",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-fenice-ortofrutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "stand": "14",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "I GIGANTI DI OLIVIERO CLAUDIO, LUIGI E C. Sas",
+        "tipologia": "Grossista",
+        "p_iva": "00875121006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/i-giganti-di-oliviero-claudio,-luigi-e-c.-sas"
+      }
+    ]
+  },
+  {
+    "id": "14_EST",
+    "stand": "14,15,47,48 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "AGRIROMA Distribuzione Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12156611001",
+        "telefono": "0660501871",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/agriroma-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "stand": "15",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "GALLUZZI Umberto Di Massimiliano Tulli Sas",
+        "tipologia": "Grossista",
+        "p_iva": "00950361006",
+        "telefono": "0660502622",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/galluzzi-umberto-di-massimiliano-tulli-sas"
+      }
+    ]
+  },
+  {
+    "id": "15_EST",
+    "stand": "14,15,47,48 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "AGRIROMA Distribuzione Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12156611001",
+        "telefono": "0660501871",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/agriroma-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "stand": "16",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "NORD Pesca Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01225961000",
+        "telefono": "066522722",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/nord-pesca-srl"
+      }
+    ]
+  },
+  {
+    "id": "16_EST",
+    "stand": "16 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Cutigni Claudio E Francesco S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1706580568",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cutigni-claudio-e-francesco-s.s."
+      },
+      {
+        "nome_azienda": "Cutini Paolo & Giorgio S.A.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "15976781003",
+        "telefono": "(06) 9941533",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cutini-paolo-&-giorgio-s.a.s."
+      },
+      {
+        "nome_azienda": "Di Palma Pasqualino",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3071430593",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/di-palma-pasqualino"
+      },
+      {
+        "nome_azienda": "Azienda Agricola Paniccià di Panniccià Fabrizio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "7468701003",
+        "telefono": "(06) 9819222",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-paniccià-di-panniccià-fabrizio"
+      },
+      {
+        "nome_azienda": "Renzetti Luca",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "16352441006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/renzetti-luca"
+      },
+      {
+        "nome_azienda": "Società Agricola Di Vidor Andrea, Luigi e Leonardo S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "5463181007",
+        "telefono": "(06) 99204281(06) 99206557",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-di-vidor-andrea,-luigi-e-leonardo-s.s."
+      },
+      {
+        "nome_azienda": "Tornesi Luciano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "611790593",
+        "telefono": "(0773) 876195",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tornesi-luciano"
+      }
+    ]
+  },
+  {
+    "id": "17_EST",
+    "stand": "17, 30 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "DELICIOUS Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13993701005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/delicious-srl"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "stand": "18",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "FIORITAL Spa",
+        "tipologia": "Grossista",
+        "p_iva": "834250276",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fiorital-spa"
+      }
+    ]
+  },
+  {
+    "id": "18_EST",
+    "stand": "18 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "L.F. FRUIT Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12239671006",
+        "telefono": "0660501451",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/l.f.-fruit-srl"
+      }
+    ]
+  },
+  {
+    "id": "19_EST",
+    "stand": "19 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "GARBAGLIA FRUIT Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00908751001",
+        "telefono": "0660502020",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/garbaglia-fruit-srl"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "stand": "20",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "CAERE Dei F.lli Gigliotti Srl",
+        "tipologia": "Grossista",
+        "p_iva": "17736611009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/caere-dei-f.lli-gigliotti-srl"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "stand": "21, 22, 23, 24,30",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "SAKANA S.r.l.",
+        "tipologia": "Grossista",
+        "p_iva": "12517591009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sakana-s.r.l."
+      }
+    ]
+  },
+  {
+    "id": "21_EST",
+    "stand": "21-22-23-24 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRUTTITAL Srl",
+        "tipologia": "Grossista",
+        "p_iva": "09727160153",
+        "telefono": "0660501491",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fruttital-srl"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "stand": "21, 22, 23, 24,30",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "SAKANA S.r.l.",
+        "tipologia": "Grossista",
+        "p_iva": "12517591009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sakana-s.r.l."
+      }
+    ]
+  },
+  {
+    "id": "22_EST",
+    "stand": "21-22-23-24 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRUTTITAL Srl",
+        "tipologia": "Grossista",
+        "p_iva": "09727160153",
+        "telefono": "0660501491",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fruttital-srl"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "stand": "21, 22, 23, 24,30",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "SAKANA S.r.l.",
+        "tipologia": "Grossista",
+        "p_iva": "12517591009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sakana-s.r.l."
+      }
+    ]
+  },
+  {
+    "id": "23_EST",
+    "stand": "21-22-23-24 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRUTTITAL Srl",
+        "tipologia": "Grossista",
+        "p_iva": "09727160153",
+        "telefono": "0660501491",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fruttital-srl"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "stand": "21, 22, 23, 24,30",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "SAKANA S.r.l.",
+        "tipologia": "Grossista",
+        "p_iva": "12517591009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sakana-s.r.l."
+      }
+    ]
+  },
+  {
+    "id": "24_EST",
+    "stand": "21-22-23-24 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRUTTITAL Srl",
+        "tipologia": "Grossista",
+        "p_iva": "09727160153",
+        "telefono": "0660501491",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fruttital-srl"
+      }
+    ]
+  },
+  {
+    "id": "25_EST",
+    "stand": "25 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "ALDOFRUTTA Di Ciccarelli Vincenzo e Figli Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00932141005",
+        "telefono": "0660501520",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/aldofrutta-di-ciccarelli-vincenzo-e-figli-srl"
+      }
+    ]
+  },
+  {
+    "id": "26_EST",
+    "stand": "26 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "AMBROSINI SUPERNA Srl Semplificata",
+        "tipologia": "Grossista",
+        "p_iva": "3015490596",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ambrosini-superna-srl-semplificata"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "stand": "27",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "CAPECCHI Spa",
+        "tipologia": "Grossista",
+        "p_iva": "4426271005",
+        "telefono": "0622796426",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/capecchi-spa"
+      }
+    ]
+  },
+  {
+    "id": "27_EST",
+    "stand": "27 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Azienda Agricola Morlupi S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "12810081005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-morlupi-s.s."
+      },
+      {
+        "nome_azienda": "Caporusso Massimo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "10163831000",
+        "telefono": "(06) 9911252",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/caporusso-massimo"
+      },
+      {
+        "nome_azienda": "De Angelis Giuseppe",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "7485891001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/de-angelis-giuseppe"
+      },
+      {
+        "nome_azienda": "Fusco Tommaso",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4618411005",
+        "telefono": "(06) 9905461",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fusco-tommaso"
+      },
+      {
+        "nome_azienda": "Le Primizie Di Verdure Tornesi Srl Società Agricola",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "02698580590",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/le-primizie-di-verdure-tornesi-srl-società-agricola"
+      },
+      {
+        "nome_azienda": "Scagnetti Giuseppe",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "10348611004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/scagnetti-giuseppe"
+      },
+      {
+        "nome_azienda": "Tornesi Tommaso",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1982280594",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tornesi-tommaso"
+      }
+    ]
+  },
+  {
+    "id": "28_EST",
+    "stand": "28 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Lauretti Antonio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "601600596",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/lauretti-antonio"
+      },
+      {
+        "nome_azienda": "Mattiuzzo Franco",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4616840585",
+        "telefono": "(06) 6679277",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mattiuzzo-franco"
+      },
+      {
+        "nome_azienda": "Siragusa Gianluca",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "17533891002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/siragusa-gianluca"
+      },
+      {
+        "nome_azienda": "Società Agricola F.Lli Panella S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2053220592",
+        "telefono": "(0773) 899557",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-f.lli-panella-s.s."
+      },
+      {
+        "nome_azienda": "Terella Emanuel",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2018340592",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/terella-emanuel"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "stand": "29",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "ALFRA TRASPORTI E LOGISTICA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "17244391003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/alfra-trasporti-e-logistica-srl"
+      }
+    ]
+  },
+  {
+    "id": "29_EST",
+    "stand": "29 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Azienda Agricola F.lli AL.DA. Bertoni S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "15061191001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-f.lli-al.da.-bertoni-s.s."
+      },
+      {
+        "nome_azienda": "Società Agricola Semplice Lamberti",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3066660592",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-semplice-lamberti"
+      },
+      {
+        "nome_azienda": "Società Agricola F.lli Onori Società Semplice",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3060920596",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-f.lli-onori-società-semplice"
+      },
+      {
+        "nome_azienda": "Ruscito Mauro",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1971640592",
+        "telefono": "(0773) 643005",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ruscito-mauro"
+      },
+      {
+        "nome_azienda": "Società Agricola F.lli Franzo S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "11232581006",
+        "telefono": "(06) 6678708",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-f.lli-franzo-s.s."
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "stand": "21, 22, 23, 24,30",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "SAKANA S.r.l.",
+        "tipologia": "Grossista",
+        "p_iva": "12517591009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sakana-s.r.l."
+      }
+    ]
+  },
+  {
+    "id": "30_EST",
+    "stand": "17, 30 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "DELICIOUS Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13993701005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/delicious-srl"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "stand": "31,32",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "ITTICA CARRAI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "15586431007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ittica-carrai-srl"
+      }
+    ]
+  },
+  {
+    "id": "31_EST",
+    "stand": "31 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "CATARINACCI ANTIMO E ANDREA SRLS",
+        "tipologia": "Grossista",
+        "p_iva": "15681391007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/catarinacci-antimo-e-andrea-srls"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "stand": "31,32",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "ITTICA CARRAI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "15586431007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ittica-carrai-srl"
+      }
+    ]
+  },
+  {
+    "id": "32_EST",
+    "stand": "32 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "ORTOFRUTTA REGINA Srls",
+        "tipologia": "Grossista",
+        "p_iva": "15950861003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ortofrutta-regina-srls"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "stand": "33",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "CAR PESCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00994031003",
+        "telefono": "0660502802",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/car-pesca-srl"
+      }
+    ]
+  },
+  {
+    "id": "33_EST",
+    "stand": "33 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "TONYFRUTTA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "7154851005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tonyfrutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "stand": "34",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "FRATELLI DE CRESCENZO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "11875731009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fratelli-de-crescenzo-srl"
+      }
+    ]
+  },
+  {
+    "id": "34_EST",
+    "stand": "34 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "SOCIETA' ITALIANA Prodotti Ortofrutticoli Roma - SIPOR Srl",
+        "tipologia": "Grossista",
+        "p_iva": "908511009",
+        "telefono": "0660501611",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/societa'-italiana-prodotti-ortofrutticoli-roma---sipor-srl"
+      }
+    ]
+  },
+  {
+    "id": "35_EST",
+    "stand": "35 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRESH NATURE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13565981001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fresh-nature-srl"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "stand": "36",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "DEL GIACCIO LUIGI",
+        "tipologia": "Grossista",
+        "p_iva": "01735530550",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/del-giaccio-luigi"
+      }
+    ]
+  },
+  {
+    "id": "36_EST",
+    "stand": "36 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FAAN FRUIT Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12422421003",
+        "telefono": "0660501631",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/faan-fruit-srl"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "stand": "37",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "CARTOCCI PESCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "15024771006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cartocci-pesca-srl"
+      }
+    ]
+  },
+  {
+    "id": "37_EST",
+    "stand": "37,38 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "COMI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02130811009",
+        "telefono": "0660501601",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/comi-srl"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "stand": "38",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "AMO TNC Srl",
+        "tipologia": "Grossista",
+        "p_iva": "15523831004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/amo-tnc-srl"
+      }
+    ]
+  },
+  {
+    "id": "38_EST",
+    "stand": "37,38 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "COMI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02130811009",
+        "telefono": "0660501601",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/comi-srl"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "stand": "39,40",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "ITTICA ATTANASIO Srl Import - Export",
+        "tipologia": "Grossista",
+        "p_iva": "11350741002",
+        "telefono": "0660502791",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ittica-attanasio-srl-import---export"
+      }
+    ]
+  },
+  {
+    "id": "39_EST",
+    "stand": "39,40 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "DESIDERIO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02159911003",
+        "telefono": "0660501660",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/desiderio-srl"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "stand": "39,40",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "ITTICA ATTANASIO Srl Import - Export",
+        "tipologia": "Grossista",
+        "p_iva": "11350741002",
+        "telefono": "0660502791",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ittica-attanasio-srl-import---export"
+      }
+    ]
+  },
+  {
+    "id": "40_EST",
+    "stand": "39,40 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "DESIDERIO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02159911003",
+        "telefono": "0660501660",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/desiderio-srl"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "stand": "41",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "C & D Fish Srl",
+        "tipologia": "Grossista",
+        "p_iva": "11986481007",
+        "telefono": "0660502880",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/c-&-d-fish-srl"
+      }
+    ]
+  },
+  {
+    "id": "41_EST",
+    "stand": "41 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Caschera Sisto",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1665710594",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/caschera-sisto"
+      },
+      {
+        "nome_azienda": "F.lli Pannunzi Amato A. E Gianni Società Semplice Agricola",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "02089630665",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-pannunzi-amato-a.-e-gianni-società-semplice-agricola"
+      },
+      {
+        "nome_azienda": "Germani Vincenzo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "10285571005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/germani-vincenzo"
+      },
+      {
+        "nome_azienda": "Tornesi Simone",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2019830591",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tornesi-simone"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "stand": "42",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "C D Fish Srl",
+        "tipologia": "Grossista",
+        "p_iva": "17192671000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/c-d-fish-srl"
+      }
+    ]
+  },
+  {
+    "id": "42_EST",
+    "stand": "42 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "TOMASSETTI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "1406861003",
+        "telefono": "0660501691",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tomassetti-srl"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "stand": "43",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "LA NAVIMAR Srl",
+        "tipologia": "Grossista",
+        "p_iva": "07660951000",
+        "telefono": "0660502902",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-navimar-srl"
+      }
+    ]
+  },
+  {
+    "id": "43_EST",
+    "stand": "43 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Ortofrutticola LA CAPITALE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "1160181002",
+        "telefono": "0660501701",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ortofrutticola-la-capitale-srl"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "stand": "44",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "GLOBAL FISH Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12081481009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/global-fish-srl"
+      }
+    ]
+  },
+  {
+    "id": "44_EST",
+    "stand": "44 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Armeni Angelo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "6415711008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/armeni-angelo"
+      },
+      {
+        "nome_azienda": "Az. Agr. Fiorentino Stefano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4737171001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/az.-agr.-fiorentino-stefano"
+      },
+      {
+        "nome_azienda": "Azienda Agr. Patrizia S.S. Di Olleia P Ferracci G Ferracci F",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "03083170591",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agr.-patrizia-s.s.-di-olleia-p-ferracci-g-ferracci-f"
+      },
+      {
+        "nome_azienda": "Barlattani Cristofer",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "10688641009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/barlattani-cristofer"
+      },
+      {
+        "nome_azienda": "Caschera Angelo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1824150591",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/caschera-angelo"
+      },
+      {
+        "nome_azienda": "Giacobbe Carmine",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "5052731006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/giacobbe-carmine"
+      },
+      {
+        "nome_azienda": "Panella Massimiliano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2022750596",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/panella-massimiliano"
+      },
+      {
+        "nome_azienda": "Soc. Agr. F.lli Giacobbe S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "15064401001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/soc.-agr.-f.lli-giacobbe-s.s."
+      },
+      {
+        "nome_azienda": "Faggioli Elena e Giovanale Gino S.S. Agricola",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "385350566",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/faggioli-elena-e-giovanale-gino-s.s.-agricola"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "stand": "45",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "MARE ITALIA GELO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "17524581000",
+        "telefono": "3470544561",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mare-italia-gelo-srl"
+      }
+    ]
+  },
+  {
+    "id": "45_EST",
+    "stand": "45 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Azienda Agricola Di Papa Vanessa",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3023890597",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-di-papa-vanessa"
+      },
+      {
+        "nome_azienda": "Capobianchi Marco",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1805880562",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/capobianchi-marco"
+      },
+      {
+        "nome_azienda": "Falena Doriano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "9309760586",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/falena-doriano"
+      },
+      {
+        "nome_azienda": "Mari Rino",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2143750590",
+        "telefono": "(0773) 853238",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mari-rino"
+      },
+      {
+        "nome_azienda": "Pallotta Giuseppe",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1426970669",
+        "telefono": "(0863) 936368",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/pallotta-giuseppe"
+      },
+      {
+        "nome_azienda": "Palombi Davide",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2454230596",
+        "telefono": "(0773) 899414",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/palombi-davide"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "stand": "46,47",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "MARE ITALIA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13451511003",
+        "telefono": "3470544561",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mare-italia-srl"
+      }
+    ]
+  },
+  {
+    "id": "46_EST",
+    "stand": "46 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "S.G. ORTOFRUTTA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "10481951001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/s.g.-ortofrutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "stand": "46,47",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "MARE ITALIA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13451511003",
+        "telefono": "3470544561",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mare-italia-srl"
+      }
+    ]
+  },
+  {
+    "id": "47_EST",
+    "stand": "14,15,47,48 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "AGRIROMA Distribuzione Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12156611001",
+        "telefono": "0660501871",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/agriroma-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "stand": "48",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "DEL GIACCIO CLAUDIO",
+        "tipologia": "Grossista",
+        "p_iva": "211301007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/del-giaccio-claudio"
+      }
+    ]
+  },
+  {
+    "id": "48_EST",
+    "stand": "14,15,47,48 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "AGRIROMA Distribuzione Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12156611001",
+        "telefono": "0660501871",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/agriroma-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "stand": "49",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "D'ANDRASSI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "11355191005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/d'andrassi-srl"
+      }
+    ]
+  },
+  {
+    "id": "49_EST",
+    "stand": "49 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Di Federico Dino",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "196741003",
+        "telefono": "(06) 9858858",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/di-federico-dino"
+      },
+      {
+        "nome_azienda": "Giacobbe Aldo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "9433531002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/giacobbe-aldo"
+      },
+      {
+        "nome_azienda": "Panella Elvio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "664670593",
+        "telefono": "(0773) 899615",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/panella-elvio"
+      },
+      {
+        "nome_azienda": "Soc. Agr. Cuomo Carmine e Figli Snc",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "03415090616",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/soc.-agr.-cuomo-carmine-e-figli-snc"
+      },
+      {
+        "nome_azienda": "Soc. Agr. G.B. Lancellotti Srl Semplificata",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "12891631009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/soc.-agr.-g.b.-lancellotti-srl-semplificata"
+      }
+    ]
+  },
+  {
+    "id": "50_EST",
+    "stand": "50 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Cerrone Paolo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2023700590",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cerrone-paolo"
+      },
+      {
+        "nome_azienda": "Cipolla Maurizio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1382250593",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cipolla-maurizio"
+      },
+      {
+        "nome_azienda": "Consorzio Funghi di Treviso Soc. Coop. Agricola",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3419220268",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/consorzio-funghi-di-treviso-soc.-coop.-agricola"
+      },
+      {
+        "nome_azienda": "F.lli Pasqualino Giuseppe e Franco Società Semplice Agricola",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "00927510594",
+        "telefono": "(06) 9819207",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-pasqualino-giuseppe-e-franco-società-semplice-agricola"
+      },
+      {
+        "nome_azienda": "Feudo Renato",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1793550599",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/feudo-renato"
+      },
+      {
+        "nome_azienda": "Provvedi Alessandro",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1223410562",
+        "telefono": "(0763) 796988",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/provvedi-alessandro"
+      },
+      {
+        "nome_azienda": "Società Agricola Antonelli Società Semplice",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "16779481007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-antonelli-società-semplice"
+      }
+    ]
+  },
+  {
+    "id": "51_EST",
+    "stand": "51,52 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "LA FRUTTIERA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02030821009",
+        "telefono": "0660501781",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-fruttiera-srl"
+      }
+    ]
+  },
+  {
+    "id": "52_EST",
+    "stand": "51,52 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "LA FRUTTIERA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02030821009",
+        "telefono": "0660501781",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-fruttiera-srl"
+      }
+    ]
+  },
+  {
+    "id": "53_OVEST",
+    "stand": "53 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "F.LLI RAOROMA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "14012721008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-raoroma-srl"
+      }
+    ]
+  },
+  {
+    "id": "54_EST",
+    "stand": "54 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "PISTELLI Virgilio Arnaldo Snc di Paolo Coletta e Fratelli",
+        "tipologia": "Grossista",
+        "p_iva": "00887791002",
+        "telefono": "0660501811",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/pistelli-virgilio-arnaldo-snc-di-paolo-coletta-e-fratelli"
+      }
+    ]
+  },
+  {
+    "id": "55_EST",
+    "stand": "55 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Ortofrutticola ANGUSTURA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01548271004",
+        "telefono": "0660501822",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ortofrutticola-angustura-srl"
+      }
+    ]
+  },
+  {
+    "id": "56_EST",
+    "stand": "5,56,57 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "RUOCCO DISTRIBUZIONE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "989681002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ruocco-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "57_EST",
+    "stand": "5,56,57 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "RUOCCO DISTRIBUZIONE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "989681002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ruocco-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "58_EST",
+    "stand": "58 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "A.L.C. AGRIFRUIT Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02056040666",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/a.l.c.-agrifruit-srl"
+      }
+    ]
+  },
+  {
+    "id": "59_EST",
+    "stand": "59 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Società  Agricola F.lli Cambise Srl",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1042420669",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-f.lli-cambise-srl"
+      },
+      {
+        "nome_azienda": "Soc. Agricola Toto dei F.lli Santini S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1189460668",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/soc.-agricola-toto-dei-f.lli-santini-s.s."
+      }
+    ]
+  },
+  {
+    "id": "60_EST",
+    "stand": "60 EST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Az. Agr. Martufi Elio e Figli SI.MA. S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3644181004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/az.-agr.-martufi-elio-e-figli-si.ma.-s.s."
+      },
+      {
+        "nome_azienda": "Il Melograno Società Semplice Agricola di Caccia Emanuele",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "14085151000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/il-melograno-società-semplice-agricola-di-caccia-emanuele"
+      },
+      {
+        "nome_azienda": "Papa Angelo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "581420593",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/papa-angelo"
+      },
+      {
+        "nome_azienda": "Papa Ernesto",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1375250592",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/papa-ernesto"
+      }
+    ]
+  },
+  {
+    "id": "61_OVEST",
+    "stand": "61 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "NUOVA FRUTTA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "7656851008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/nuova-frutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "62_OVEST",
+    "stand": "62 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "ORTOFRUTTICOLA Simone Srl",
+        "tipologia": "Grossista",
+        "p_iva": "2678160595",
+        "telefono": "0660501892",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ortofrutticola-simone-srl"
+      }
+    ]
+  },
+  {
+    "id": "63_OVEST",
+    "stand": "63,118 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FERRINI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01220661001",
+        "telefono": "0660501901",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ferrini-srl"
+      }
+    ]
+  },
+  {
+    "id": "64_OVEST",
+    "stand": "64 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "ERRA LUIGI & C. Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00896601002",
+        "telefono": "0660501911",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/erra-luigi-&-c.-srl"
+      }
+    ]
+  },
+  {
+    "id": "65_OVEST",
+    "stand": "65 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "COSTABINA DV Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01160401004",
+        "telefono": "0660501920",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/costabina-dv-srl"
+      }
+    ]
+  },
+  {
+    "id": "66_OVEST",
+    "stand": "66 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "CONSORTIUM AGROALIMENTARE ITALIANO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "14884271009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/consortium-agroalimentare-italiano-srl"
+      }
+    ]
+  },
+  {
+    "id": "68_OVEST",
+    "stand": "68,69 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "NEW SOM Spa",
+        "tipologia": "Grossista",
+        "p_iva": "4224070286",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/new-som-spa"
+      }
+    ]
+  },
+  {
+    "id": "69_OVEST",
+    "stand": "68,69 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "NEW SOM Spa",
+        "tipologia": "Grossista",
+        "p_iva": "4224070286",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/new-som-spa"
+      }
+    ]
+  },
+  {
+    "id": "70_OVEST",
+    "stand": "70 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Amato Giovanni",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3311910610",
+        "telefono": "(0823) 706073",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/amato-giovanni"
+      },
+      {
+        "nome_azienda": "Massaro Vinicio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1832470668",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/massaro-vinicio"
+      },
+      {
+        "nome_azienda": "Azienda Agricola San Valentino Di Migliaro Aniello",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3019950652",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-san-valentino-di-migliaro-aniello"
+      }
+    ]
+  },
+  {
+    "id": "71_OVEST",
+    "stand": "71 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "NATURAL Srl",
+        "tipologia": "Grossista",
+        "p_iva": "17863251009",
+        "telefono": "0660501981",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/natural-srl"
+      }
+    ]
+  },
+  {
+    "id": "72_OVEST",
+    "stand": "72 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "LO ECCELLENZE IN TAVOLA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "15983351006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/lo-eccellenze-in-tavola-srl"
+      }
+    ]
+  },
+  {
+    "id": "73_OVEST",
+    "stand": "73,74 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "D'ALTERIO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01407731007",
+        "telefono": "0660502010",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/d'alterio-srl"
+      }
+    ]
+  },
+  {
+    "id": "74_OVEST",
+    "stand": "73,74 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "D'ALTERIO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01407731007",
+        "telefono": "0660502010",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/d'alterio-srl"
+      },
+      {
+        "nome_azienda": "Ortofrutta DI STEFANO Giuseppe Sas di Di Stefano Giorgio",
+        "tipologia": "Grossista",
+        "p_iva": "6286721003",
+        "telefono": "0660502012",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ortofrutta-di-stefano-giuseppe-sas-di-di-stefano-giorgio"
+      }
+    ]
+  },
+  {
+    "id": "75_OVEST",
+    "stand": "75 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "F.F. FRUITS Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00872381009",
+        "telefono": "0660502025",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.f.-fruits-srl"
+      }
+    ]
+  },
+  {
+    "id": "76_OVEST",
+    "stand": "76 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "BRODHE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01703580660",
+        "telefono": "0660502050",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/brodhe-srl"
+      }
+    ]
+  },
+  {
+    "id": "77_OVEST",
+    "stand": "77,78,79 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "SPREAFICO FRANCESCO e F.lli Spa",
+        "tipologia": "Grossista",
+        "p_iva": "348240136",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/spreafico-francesco-e-f.lli-spa"
+      }
+    ]
+  },
+  {
+    "id": "78_OVEST",
+    "stand": "77,78,79 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "SPREAFICO FRANCESCO e F.lli Spa",
+        "tipologia": "Grossista",
+        "p_iva": "348240136",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/spreafico-francesco-e-f.lli-spa"
+      }
+    ]
+  },
+  {
+    "id": "79_OVEST",
+    "stand": "77,78,79 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "SPREAFICO FRANCESCO e F.lli Spa",
+        "tipologia": "Grossista",
+        "p_iva": "348240136",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/spreafico-francesco-e-f.lli-spa"
+      }
+    ]
+  },
+  {
+    "id": "80_OVEST",
+    "stand": "80 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "F.LLI STALTARI SUD Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02073791002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-staltari-sud-srl"
+      }
+    ]
+  },
+  {
+    "id": "81_OVEST",
+    "stand": "81 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "CONTINENTALFRUTTA Srl Di Patrigniani Amleto e Monaco Gualtiero",
+        "tipologia": "Grossista",
+        "p_iva": "00901461004",
+        "telefono": "0660502080",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/continentalfrutta-srl-di-patrigniani-amleto-e-monaco-gualtiero"
+      }
+    ]
+  },
+  {
+    "id": "82_OVEST",
+    "stand": "82,83 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "CENTRO INGROSSO ORTOFRUTTA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02030811000",
+        "telefono": "0660502090",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/centro-ingrosso-ortofrutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "83_OVEST",
+    "stand": "82,83 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "CENTRO INGROSSO ORTOFRUTTA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "02030811000",
+        "telefono": "0660502090",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/centro-ingrosso-ortofrutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "84_OVEST",
+    "stand": "84 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "MONACO e VISCONTI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "1190701001",
+        "telefono": "0660502281",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/monaco-e-visconti-srl"
+      }
+    ]
+  },
+  {
+    "id": "85_OVEST",
+    "stand": "85 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Azienda Agricola F.lli Ronchini S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "13718081006",
+        "telefono": "(06) 9360074",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-f.lli-ronchini-s.s."
+      },
+      {
+        "nome_azienda": "F.lli Spizzichini Società Semplice",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2118201009",
+        "telefono": "(06) 7234185",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-spizzichini-società-semplice"
+      },
+      {
+        "nome_azienda": "Fenzato Massimo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "6409981005",
+        "telefono": "(06) 6679266 (06) 6678700",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fenzato-massimo"
+      },
+      {
+        "nome_azienda": "Lucconi Luigi",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "637970591",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/lucconi-luigi"
+      },
+      {
+        "nome_azienda": "Russo Angelo Michele",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1794050599",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/russo-angelo-michele"
+      },
+      {
+        "nome_azienda": "Sarno Pasquale",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2957770619",
+        "telefono": "(0823) 706170",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sarno-pasquale"
+      }
+    ]
+  },
+  {
+    "id": "86_OVEST",
+    "stand": "86 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "MARRAMA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "03750121000",
+        "telefono": "0660502131",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/marrama-srl"
+      }
+    ]
+  },
+  {
+    "id": "87_OVEST",
+    "stand": "87 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "OLIVA DI OLIVA ANIELLO Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01160191001",
+        "telefono": "0660502141",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/oliva-di-oliva-aniello-srl"
+      }
+    ]
+  },
+  {
+    "id": "88_OVEST",
+    "stand": "88,93,94 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "SIWA Società per il Commercio Ortofrutticolo Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00894821008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/siwa-società-per-il-commercio-ortofrutticolo-srl"
+      }
+    ]
+  },
+  {
+    "id": "89_OVEST",
+    "stand": "89 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Bolla Antonio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4064441001",
+        "telefono": "(06) 98989790",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/bolla-antonio"
+      },
+      {
+        "nome_azienda": "Massaro Vinicio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1832470668",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/massaro-vinicio"
+      },
+      {
+        "nome_azienda": "Robibero Luigi",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2026050597",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/robibero-luigi"
+      },
+      {
+        "nome_azienda": "Società Agricola Pellagri di Pellagri Danilo, Sonia e Fiori Elena S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2453340594",
+        "telefono": "(0773) 804311",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-pellagri-di-pellagri-danilo,-sonia-e-fiori-elena-s.s."
+      }
+    ]
+  },
+  {
+    "id": "90_OVEST",
+    "stand": "90 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Azienda Agricola Renzetti Orlando S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "14699271004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-renzetti-orlando-s.s."
+      },
+      {
+        "nome_azienda": "Azienda Agricola Tiozzo di Rolando e Maurizio s.s.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "11698641005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-tiozzo-di-rolando-e-maurizio-s.s."
+      },
+      {
+        "nome_azienda": "Carosi Luigi",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "157471004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/carosi-luigi"
+      }
+    ]
+  },
+  {
+    "id": "91_OVEST",
+    "stand": "91 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Manfunghi Srl Semplificata",
+        "tipologia": "Grossista",
+        "p_iva": "13636241005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/manfunghi-srl-semplificata"
+      }
+    ]
+  },
+  {
+    "id": "92_OVEST",
+    "stand": "92 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "DAMA Frutta & Verdura Srls",
+        "tipologia": "Grossista",
+        "p_iva": "03210400598",
+        "telefono": "0660502190",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/dama-frutta-&-verdura-srls"
+      }
+    ]
+  },
+  {
+    "id": "93_OVEST",
+    "stand": "88,93,94 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "SIWA Società per il Commercio Ortofrutticolo Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00894821008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/siwa-società-per-il-commercio-ortofrutticolo-srl"
+      }
+    ]
+  },
+  {
+    "id": "94_OVEST",
+    "stand": "88,93,94 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "SIWA Società per il Commercio Ortofrutticolo Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00894821008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/siwa-società-per-il-commercio-ortofrutticolo-srl"
+      }
+    ]
+  },
+  {
+    "id": "95_OVEST",
+    "stand": "95 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "DI CRISTO S.R.L.",
+        "tipologia": "Grossista",
+        "p_iva": "00946611001",
+        "telefono": "0660502220",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/di-cristo-s.r.l."
+      }
+    ]
+  },
+  {
+    "id": "96_OVEST",
+    "stand": "96, 97 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "KING COMPANY Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13573121004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/king-company-srl"
+      }
+    ]
+  },
+  {
+    "id": "97_OVEST",
+    "stand": "96, 97 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "KING COMPANY Srl",
+        "tipologia": "Grossista",
+        "p_iva": "13573121004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/king-company-srl"
+      }
+    ]
+  },
+  {
+    "id": "98_OVEST",
+    "stand": "98 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Bottoni Pietro",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1751300599",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/bottoni-pietro"
+      },
+      {
+        "nome_azienda": "Di Pietrogiacomo Antonio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4016041008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/di-pietrogiacomo-antonio"
+      },
+      {
+        "nome_azienda": "Mari Fabrizio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3618771004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mari-fabrizio"
+      },
+      {
+        "nome_azienda": "Meleleo Antonio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3800881009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/meleleo-antonio"
+      },
+      {
+        "nome_azienda": "Panella Virgilio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1229490592",
+        "telefono": "(0773) 899444",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/panella-virgilio"
+      },
+      {
+        "nome_azienda": "Società Agricola Torres S.S. Di Antimo e Primo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "15014881005",
+        "telefono": "(0773) 899444",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-torres-s.s.-di-antimo-e-primo"
+      }
+    ]
+  },
+  {
+    "id": "99_OVEST",
+    "stand": "99 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Az. Agricola Galasso S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "14768001001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/az.-agricola-galasso-s.s."
+      },
+      {
+        "nome_azienda": "Cuomo Stefano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3212880615",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cuomo-stefano"
+      },
+      {
+        "nome_azienda": "Azienda Agricola Freschi di Freschi Giuseppe E C. S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "14157151003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-freschi-di-freschi-giuseppe-e-c.-s.s."
+      },
+      {
+        "nome_azienda": "Mariani Clemente",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1651850594",
+        "telefono": "(0773) 877155",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mariani-clemente"
+      },
+      {
+        "nome_azienda": "Società Agricola Sing & C. S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2932930593",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-sing-&-c.-s.s."
+      },
+      {
+        "nome_azienda": "Teodori Andrea",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "4974151005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/teodori-andrea"
+      }
+    ]
+  },
+  {
+    "id": "100_OVEST",
+    "stand": "100 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "TOZZI Ortofrutta Srl",
+        "tipologia": "Grossista",
+        "p_iva": "2031211002",
+        "telefono": "0660502270",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tozzi-ortofrutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "101_OVEST",
+    "stand": "101 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Altobelli Luciano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1364410595",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/altobelli-luciano"
+      },
+      {
+        "nome_azienda": "Ciani Weed Di Ciani Alessandro",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "16681561003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ciani-weed-di-ciani-alessandro"
+      },
+      {
+        "nome_azienda": "Romagnoli Paolo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "6379851006",
+        "telefono": "(06) 5050025",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/romagnoli-paolo"
+      },
+      {
+        "nome_azienda": "Società Agricola DGS Fruit S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "17552801007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-dgs-fruit-s.s."
+      },
+      {
+        "nome_azienda": "Società Agricola F.lli Della Porta e Figli",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "12950981006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-f.lli-della-porta-e-figli"
+      },
+      {
+        "nome_azienda": "Società Agricola Sapori di Maremma S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2358970560",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-sapori-di-maremma-s.s."
+      },
+      {
+        "nome_azienda": "Tanfani Giuseppina",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "10228560586",
+        "telefono": "(06) 5050227",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tanfani-giuseppina"
+      }
+    ]
+  },
+  {
+    "id": "102_OVEST",
+    "stand": "102 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "L'AGRUMARIA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00900601006",
+        "telefono": "0660502291",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/l'agrumaria-srl"
+      }
+    ]
+  },
+  {
+    "id": "103_OVEST",
+    "stand": "103, 104, 105 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "BATTAGLIO Spa",
+        "tipologia": "Grossista",
+        "p_iva": "02118130018",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/battaglio-spa"
+      }
+    ]
+  },
+  {
+    "id": "104_OVEST",
+    "stand": "103, 104, 105 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "BATTAGLIO Spa",
+        "tipologia": "Grossista",
+        "p_iva": "02118130018",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/battaglio-spa"
+      }
+    ]
+  },
+  {
+    "id": "105_OVEST",
+    "stand": "103, 104, 105 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "BATTAGLIO Spa",
+        "tipologia": "Grossista",
+        "p_iva": "02118130018",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/battaglio-spa"
+      }
+    ]
+  },
+  {
+    "id": "106_OVEST",
+    "stand": "106 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "ELLECIEMME SRL",
+        "tipologia": "Grossista",
+        "p_iva": "13881391000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/elleciemme-srl"
+      }
+    ]
+  },
+  {
+    "id": "107_OVEST",
+    "stand": "107 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "LA CONTADINA SURGELATI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "2054040593",
+        "telefono": "0660502340",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-contadina-surgelati-srl"
+      }
+    ]
+  },
+  {
+    "id": "108_OVEST",
+    "stand": "108,109,110 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRATELLI MAROCCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00930211008",
+        "telefono": "0660501990",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fratelli-marocca-srl"
+      }
+    ]
+  },
+  {
+    "id": "109_OVEST",
+    "stand": "108,109,110 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRATELLI MAROCCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00930211008",
+        "telefono": "0660501990",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fratelli-marocca-srl"
+      }
+    ]
+  },
+  {
+    "id": "110_OVEST",
+    "stand": "108,109,110 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FRATELLI MAROCCA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00930211008",
+        "telefono": "0660501990",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fratelli-marocca-srl"
+      }
+    ]
+  },
+  {
+    "id": "111_OVEST",
+    "stand": "111 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Az. Agricola Bertoni S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "15060741004",
+        "telefono": "(06) 9819060",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/az.-agricola-bertoni-s.s."
+      },
+      {
+        "nome_azienda": "Azienda Agricola Camilli Danilo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1485680563",
+        "telefono": "(0761) 251495",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-camilli-danilo"
+      },
+      {
+        "nome_azienda": "Azienda Agricola Eredi Di Delle Fratte Angelo S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "5532411005",
+        "telefono": "(06) 9981100",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-eredi-di-delle-fratte-angelo-s.s."
+      },
+      {
+        "nome_azienda": "Bertoni Andrea",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "10158341007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/bertoni-andrea"
+      },
+      {
+        "nome_azienda": "Biondi Emanuele",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "6189331009",
+        "telefono": "(06) 50910809",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/biondi-emanuele"
+      },
+      {
+        "nome_azienda": "Consorzio Funghi di Treviso Soc. Coop. Agricola",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3419220268",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/consorzio-funghi-di-treviso-soc.-coop.-agricola"
+      },
+      {
+        "nome_azienda": "Delle Fratte Antonio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "214381006",
+        "telefono": "(06) 9981416",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/delle-fratte-antonio"
+      },
+      {
+        "nome_azienda": "Lauretti Marco",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2143230593",
+        "telefono": "(0773) 877012",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/lauretti-marco"
+      },
+      {
+        "nome_azienda": "Società Agricola F.lli Tundo S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3189880598",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-f.lli-tundo-s.s."
+      }
+    ]
+  },
+  {
+    "id": "112_OVEST",
+    "stand": "112 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "MARWORLD FRUIT Due Srls",
+        "tipologia": "Grossista",
+        "p_iva": "13769381008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/marworld-fruit-due-srls"
+      }
+    ]
+  },
+  {
+    "id": "113_OVEST",
+    "stand": "113 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Società  Agricola F.lli Cambise Srl",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1042420669",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-f.lli-cambise-srl"
+      },
+      {
+        "nome_azienda": "Soc. Agricola Toto dei F.lli Santini S.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1189460668",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/soc.-agricola-toto-dei-f.lli-santini-s.s."
+      }
+    ]
+  },
+  {
+    "id": "114_OVEST",
+    "stand": "114 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "ETNA Srl",
+        "tipologia": "Grossista",
+        "p_iva": "12282621007",
+        "telefono": "0660502411",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/etna-srl"
+      }
+    ]
+  },
+  {
+    "id": "115_OVEST",
+    "stand": "115 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "VANACORE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00934661000",
+        "telefono": "0660502421",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/vanacore-srl"
+      }
+    ]
+  },
+  {
+    "id": "116_OVEST",
+    "stand": "116 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Commercio Ortofrutticolo Europeo - Srl",
+        "tipologia": "Grossista",
+        "p_iva": "00901561001",
+        "telefono": "0660502440",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/commercio-ortofrutticolo-europeo---srl"
+      }
+    ]
+  },
+  {
+    "id": "117_OVEST",
+    "stand": "117 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "LA MERCANTE Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01160201008",
+        "telefono": "0660502440",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/la-mercante-srl"
+      }
+    ]
+  },
+  {
+    "id": "118_OVEST",
+    "stand": "63,118 OVEST",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "FERRINI Srl",
+        "tipologia": "Grossista",
+        "p_iva": "01220661001",
+        "telefono": "0660501901",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ferrini-srl"
+      }
+    ]
+  },
+  {
+    "id": "A1",
+    "stand": "A1",
+    "settore": "Direzionale",
+    "venditori": [
+      {
+        "nome_azienda": "DUAL CAR WASH Srl",
+        "tipologia": "Rivendita auto plurimarche e autolavaggio",
+        "p_iva": "14547481003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/dual-car-wash-srl"
+      }
+    ]
+  },
+  {
+    "id": "C",
+    "stand": "C",
+    "settore": "Centro Direzionale",
+    "venditori": [
+      {
+        "nome_azienda": "OFFICINE DEL PESCE",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "11981281006",
+        "telefono": "0660503420",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/officine-del-pesce"
+      }
+    ]
+  },
+  {
+    "id": "D",
+    "stand": "D",
+    "settore": "Centro Ingressi",
+    "venditori": [
+      {
+        "nome_azienda": "DUAL CAR WASH Srl",
+        "tipologia": "Autolavaggio grandi mezzi",
+        "p_iva": "14547481003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/dual-car-wash-srl"
+      }
+    ]
+  },
+  {
+    "id": "Direzionale_A",
+    "stand": "Direzionale A",
+    "settore": "Centro Direzionale",
+    "venditori": [
+      {
+        "nome_azienda": "A.S. MANUTENZIONE IMPIANTI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14285881000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/a.s.-manutenzione-impianti-srl"
+      },
+      {
+        "nome_azienda": "ADP Società Cooperativa Srl",
+        "tipologia": "Uffici",
+        "p_iva": "02014450668",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/adp-società-cooperativa-srl"
+      },
+      {
+        "nome_azienda": "AZIONI GASTRONOMICHE Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14428991005",
+        "telefono": "0660503550",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azioni-gastronomiche-srl"
+      },
+      {
+        "nome_azienda": "AZIONI GASTRONOMICHE Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14428991005",
+        "telefono": "0660503550",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azioni-gastronomiche-srl"
+      },
+      {
+        "nome_azienda": "CAFFARI CUSTOMS CONSULTING Soc. A. R. L.",
+        "tipologia": "Uffici",
+        "p_iva": "15124321009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/caffari-customs-consulting-soc.-a.-r.-l."
+      },
+      {
+        "nome_azienda": "COLASANTI CATERING Srl",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "11009411007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/colasanti-catering-srl"
+      },
+      {
+        "nome_azienda": "CO.SE.C. Soc Coop.",
+        "tipologia": "Uffici",
+        "p_iva": "00399420793",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/co.se.c.-soc-coop."
+      },
+      {
+        "nome_azienda": "DAVID DI PROSPERO",
+        "tipologia": "Uffici",
+        "p_iva": "11102551006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/david-di-prospero"
+      },
+      {
+        "nome_azienda": "EDILTECNO 3D Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14515231000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ediltecno-3d-srl"
+      },
+      {
+        "nome_azienda": "EDILTECNO 3D Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14515231000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ediltecno-3d-srl"
+      },
+      {
+        "nome_azienda": "FULL METAL Srl",
+        "tipologia": "Uffici",
+        "p_iva": "17395721008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/full-metal-srl"
+      },
+      {
+        "nome_azienda": "FULL METAL Srl",
+        "tipologia": "Uffici",
+        "p_iva": "17395721008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/full-metal-srl"
+      },
+      {
+        "nome_azienda": "GROSSIPROGET Srl",
+        "tipologia": "Uffici",
+        "p_iva": "02694640604",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/grossiproget-srl"
+      },
+      {
+        "nome_azienda": "GRUPPO ECP Srl SOCIETA' BENEFIT",
+        "tipologia": "Uffici",
+        "p_iva": "17480451008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/gruppo-ecp-srl-societa'-benefit"
+      },
+      {
+        "nome_azienda": "GUILLIN ITALIA Spa",
+        "tipologia": "Uffici",
+        "p_iva": "00897850962",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/guillin-italia-spa"
+      },
+      {
+        "nome_azienda": "LDF Srls",
+        "tipologia": "Uffici",
+        "p_iva": "15637241009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ldf-srls"
+      },
+      {
+        "nome_azienda": "LUIGI DE FILIPPO & C. Spedizioni Internazionali Srl",
+        "tipologia": "Uffici",
+        "p_iva": "10316921005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/luigi-de-filippo-&-c.-spedizioni-internazionali-srl"
+      },
+      {
+        "nome_azienda": "Misenti Claudio",
+        "tipologia": "Tabacchi",
+        "p_iva": "15722031000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/misenti-claudio"
+      },
+      {
+        "nome_azienda": "PALMO Srl",
+        "tipologia": "Uffici",
+        "p_iva": "13548601007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/palmo-srl"
+      },
+      {
+        "nome_azienda": "PLURISERVIZI ROMA CAPOCCIA Srls",
+        "tipologia": "Uffici",
+        "p_iva": "16173821006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/pluriservizi-roma-capoccia-srls"
+      },
+      {
+        "nome_azienda": "QUINTO QUARTO TEACH  & MEDIA Entertainment Srl",
+        "tipologia": "Uffici",
+        "p_iva": "15317331005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/quinto-quarto-teach-&-media-entertainment-srl"
+      },
+      {
+        "nome_azienda": "REGIL LAB Srl",
+        "tipologia": "Uffici",
+        "p_iva": "1152914001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/regil-lab-srl"
+      },
+      {
+        "nome_azienda": "SPAZIO MARKET S.R.L.U.",
+        "tipologia": "Uffici",
+        "p_iva": "17205751005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/spazio-market-s.r.l.u."
+      },
+      {
+        "nome_azienda": "ZAMPA GESTIONE E SERVIZI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "12651121001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/zampa-gestione-e-servizi-srl"
+      }
+    ]
+  },
+  {
+    "id": "Direzionale_B",
+    "stand": "Direzionale B",
+    "settore": "Centro Direzionale",
+    "venditori": [
+      {
+        "nome_azienda": "3S COSTRUZIONI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "12841441004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/3s-costruzioni-srl"
+      },
+      {
+        "nome_azienda": "AGRI-BIO-ECO LABORATORI RIUNITI S.r.l.",
+        "tipologia": "Uffici",
+        "p_iva": "02470110590",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/agri-bio-eco-laboratori-riuniti-s.r.l."
+      },
+      {
+        "nome_azienda": "ALFA Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14991401002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/alfa-srl"
+      },
+      {
+        "nome_azienda": "AZIENDA UNITA' SANITARIA LOCALE RMG",
+        "tipologia": "ASL",
+        "p_iva": "04733471009",
+        "telefono": "0774392214",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-unita'-sanitaria-locale-rmg"
+      },
+      {
+        "nome_azienda": "B-SERVICE Srl",
+        "tipologia": "Uffici",
+        "p_iva": "17842691002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/b-service-srl"
+      },
+      {
+        "nome_azienda": "CO.LA.SER. Cooperativa Lavoratori Servizi Scpa",
+        "tipologia": "Uffici",
+        "p_iva": "1030261000",
+        "telefono": "0660503080",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/co.la.ser.-cooperativa-lavoratori-servizi-scpa"
+      },
+      {
+        "nome_azienda": "EASYCOM SISTEMI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "05814281001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/easycom-sistemi-srl"
+      },
+      {
+        "nome_azienda": "EASYCOM SISTEMI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "05814281001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/easycom-sistemi-srl"
+      },
+      {
+        "nome_azienda": "ELAFOOD SAS",
+        "tipologia": "Uffici",
+        "p_iva": "FR70438869406",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/elafood-sas"
+      },
+      {
+        "nome_azienda": "Federazione Agroalimentare Commercio e Servizi Srl",
+        "tipologia": "Uffici",
+        "p_iva": "13668321006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/federazione-agroalimentare-commercio-e-servizi-srl"
+      },
+      {
+        "nome_azienda": "GLOBAL SERVICE Srl Semplificata",
+        "tipologia": "Uffici",
+        "p_iva": "13396971007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/global-service-srl-semplificata"
+      },
+      {
+        "nome_azienda": "GMP Trasporti Società Cooperativa",
+        "tipologia": "Uffici",
+        "p_iva": "11209051009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/gmp-trasporti-società-cooperativa"
+      },
+      {
+        "nome_azienda": "JF Techonologycal Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14649391001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/jf-techonologycal-srl"
+      },
+      {
+        "nome_azienda": "KAIROS Società Cooperativa Onlus",
+        "tipologia": "Studio medico",
+        "p_iva": "12315101001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/kairos-società-cooperativa-onlus"
+      },
+      {
+        "nome_azienda": "LIFE SERVIZI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "12267071004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/life-servizi-srl"
+      },
+      {
+        "nome_azienda": "Cucineria Duca Re",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "14404811003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cucineria-duca-re"
+      },
+      {
+        "nome_azienda": "MA GROUP SPA",
+        "tipologia": "Uffici",
+        "p_iva": "14555471003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ma-group-spa"
+      },
+      {
+        "nome_azienda": "MOVEASY Srls",
+        "tipologia": "Uffici",
+        "p_iva": "18010041004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/moveasy-srls"
+      },
+      {
+        "nome_azienda": "OC TRADE di Caruso Fabio & C Sas",
+        "tipologia": "Uffici",
+        "p_iva": "18105961009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/oc-trade-di-caruso-fabio-&-c-sas"
+      },
+      {
+        "nome_azienda": "ROMA SERVIZI PER LE IMPRESE Srl",
+        "tipologia": "Uffici",
+        "p_iva": "15069391009",
+        "telefono": "3343077350",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/roma-servizi-per-le-imprese-srl"
+      },
+      {
+        "nome_azienda": "ROMA SERVIZI PER LE IMPRESE Srl",
+        "tipologia": "Uffici",
+        "p_iva": "15069391009",
+        "telefono": "3343077350",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/roma-servizi-per-le-imprese-srl"
+      },
+      {
+        "nome_azienda": "SOLUZIONI IMBALLAGGI ALIMENTARI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14094331007",
+        "telefono": "0660503161",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/soluzioni-imballaggi-alimentari-srl"
+      },
+      {
+        "nome_azienda": "SUPER FAST GROUP Srls",
+        "tipologia": "Uffici",
+        "p_iva": "17384261008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/super-fast-group-srls"
+      },
+      {
+        "nome_azienda": "UNICEDIL",
+        "tipologia": "Uffici",
+        "p_iva": "97582360588",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/unicedil"
+      },
+      {
+        "nome_azienda": "XANTHO Srl",
+        "tipologia": "Uffici",
+        "p_iva": "11936181004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/xantho-srl"
+      },
+      {
+        "nome_azienda": "VICEL KOREA Srl",
+        "tipologia": "Uffici",
+        "p_iva": "14743441009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/vicel-korea-srl"
+      }
+    ]
+  },
+  {
+    "id": "E",
+    "stand": "E",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "CE.DI.GROS Scarl",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "06564861000",
+        "telefono": "06221931",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ce.di.gros-scarl"
+      }
+    ]
+  },
+  {
+    "id": "G",
+    "stand": "G",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "CAPECCHI Spa",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "4426271005",
+        "telefono": "0660505000",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/capecchi-spa"
+      }
+    ]
+  },
+  {
+    "id": "H",
+    "stand": "H",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "COMPAGNIE FRUITIERE Italia Srl",
+        "tipologia": "Centro maturazione banane",
+        "p_iva": "02664030182",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/compagnie-fruitiere-italia-srl"
+      },
+      {
+        "nome_azienda": "APOFRUIT ITALIA Soc. Coop. Agricola",
+        "tipologia": "Magazzini ortofrutta",
+        "p_iva": "00127740405",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/apofruit-italia-soc.-coop.-agricola"
+      }
+    ]
+  },
+  {
+    "id": "I",
+    "stand": "I",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "DOLE ITALIA Srl",
+        "tipologia": "Centro maturazione banane",
+        "p_iva": "03146250109",
+        "telefono": "0660501760",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/dole-italia-srl"
+      },
+      {
+        "nome_azienda": "F.lli STALTARI SUD Srl",
+        "tipologia": "Magazzini ortofrutta",
+        "p_iva": "02073791002",
+        "telefono": "0660501040",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-staltari-sud-srl"
+      },
+      {
+        "nome_azienda": "F.lli STALTARI SUD Srl",
+        "tipologia": "Trasformazione e confezionamento di prodotti ortofrutticoli di IV gamma",
+        "p_iva": "02073791002",
+        "telefono": "0660501040",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/f.lli-staltari-sud-srl"
+      }
+    ]
+  },
+  {
+    "id": "L",
+    "stand": "L",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "Alimentari Ortofrutticoli ABC Spa",
+        "tipologia": "Centro maturazione banane",
+        "p_iva": "00877161000",
+        "telefono": "0660501050",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/alimentari-ortofrutticoli-abc-spa"
+      },
+      {
+        "nome_azienda": "Commercio Ortofrutticolo Europeo - Srl",
+        "tipologia": "Logistica e stoccaggio",
+        "p_iva": "00901561001",
+        "telefono": "0660502430",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/commercio-ortofrutticolo-europeo---srl"
+      },
+      {
+        "nome_azienda": "CONSORZIO SCM Group Società consortile A R.L.",
+        "tipologia": "Logistica e stoccaggio",
+        "p_iva": "16205281005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/consorzio-scm-group-società-consortile-a-r.l."
+      },
+      {
+        "nome_azienda": "DE MARCHI MARCO",
+        "tipologia": "Magazzini ortofrutta",
+        "p_iva": "4117141004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/de-marchi-marco"
+      }
+    ]
+  },
+  {
+    "id": "M",
+    "stand": "M",
+    "settore": "Centro Ingressi",
+    "venditori": [
+      {
+        "nome_azienda": "MAXCOM PETROLI Spa",
+        "tipologia": "Distributore carburante",
+        "p_iva": "02028631006",
+        "telefono": "0660503240",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/maxcom-petroli-spa"
+      }
+    ]
+  },
+  {
+    "id": "N",
+    "stand": "N",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "BATTAGLIO Spa",
+        "tipologia": "Magazzini ortofrutta",
+        "p_iva": "02118130018",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/battaglio-spa"
+      }
+    ]
+  },
+  {
+    "id": "Nodo_Centrale_Est",
+    "stand": "Nodo Centrale Est",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "A.C.L.I. Provinciali di Roma",
+        "tipologia": "Uffici",
+        "p_iva": "11309291000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/a.c.l.i.-provinciali-di-roma"
+      },
+      {
+        "nome_azienda": "ASSOCIAZIONE SGUARDO AL FUTURO",
+        "tipologia": "Recupero invenduto alimentare",
+        "p_iva": "10502871006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/associazione-sguardo-al-futuro"
+      },
+      {
+        "nome_azienda": "CFP Società Cooperativa S.r.l.S.",
+        "tipologia": "Movimentazione merci",
+        "p_iva": "16302181009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cfp-società-cooperativa-s.r.l.s."
+      },
+      {
+        "nome_azienda": "Gargano Andrea",
+        "tipologia": "Vendita uova, miele, farina, pasta, olio e prodotti alimentari",
+        "p_iva": "1977220662",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/gargano-andrea"
+      },
+      {
+        "nome_azienda": "Kalos Srl",
+        "tipologia": "Uffici",
+        "p_iva": "16568121004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/kalos-srl"
+      },
+      {
+        "nome_azienda": "OCRES Renato Scrocca Srl",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "01314831007",
+        "telefono": "0660501257",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ocres-renato-scrocca-srl"
+      },
+      {
+        "nome_azienda": "SABINA CARTA DI OTTAVIANI PIETRO",
+        "tipologia": "Vendita imballaggi per alimenti",
+        "p_iva": "9129031002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sabina-carta-di-ottaviani-pietro"
+      },
+      {
+        "nome_azienda": "SEVENFRUITS Srl",
+        "tipologia": "Uffici",
+        "p_iva": "15319991004",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/sevenfruits-srl"
+      },
+      {
+        "nome_azienda": "TA.MER.GE. - Tabaccheria Mercati Generali Srl",
+        "tipologia": "Tabacchi",
+        "p_iva": "00968491001",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ta.mer.ge.---tabaccheria-mercati-generali-srl"
+      }
+    ]
+  },
+  {
+    "id": "Nodo_Centrale_Ittico",
+    "stand": "Nodo Centrale Ittico",
+    "settore": "Mercato Ittico",
+    "venditori": [
+      {
+        "nome_azienda": "BAR, TABACCHI E VIZI VARI Srl",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "13451691003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/bar,-tabacchi-e-vizi-vari-srl"
+      },
+      {
+        "nome_azienda": "CIMMAROSA GENNARO",
+        "tipologia": "Emporio, Indumenti da lavoro e varie",
+        "p_iva": "4486251210",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cimmarosa-gennaro"
+      },
+      {
+        "nome_azienda": "CITTA' DI ROMA METRONOTTE Società Cooperativa",
+        "tipologia": "Uffici",
+        "p_iva": "03707541003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/citta'-di-roma-metronotte-società-cooperativa"
+      }
+    ]
+  },
+  {
+    "id": "Nodo_Centrale_Ovest",
+    "stand": "Nodo Centrale Ovest",
+    "settore": "Mercato Ortofrutticolo",
+    "venditori": [
+      {
+        "nome_azienda": "Azienda Agricola Giuliani Nadia",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "1505290666",
+        "telefono": "(086) 393261",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/azienda-agricola-giuliani-nadia"
+      },
+      {
+        "nome_azienda": "De Fabiis Graziella",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "12579221008",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/de-fabiis-graziella"
+      },
+      {
+        "nome_azienda": "Loffarelli Saverio",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "2353830595",
+        "telefono": "(0773) 899242",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/loffarelli-saverio"
+      },
+      {
+        "nome_azienda": "Papa Angelo",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "581420593",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/papa-angelo"
+      },
+      {
+        "nome_azienda": "Silvi Massimiliano",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "17107501003",
+        "telefono": "(0774) 635745",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/silvi-massimiliano"
+      },
+      {
+        "nome_azienda": "Società Agricola Palagri A R.L.S.",
+        "tipologia": "Produttori Agricoli",
+        "p_iva": "3082240593",
+        "telefono": "(0773) 876757",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/società-agricola-palagri-a-r.l.s."
+      },
+      {
+        "nome_azienda": "ITALIANA SERVIZI Soc. Coop.",
+        "tipologia": "Pulizie e movimentazione merci",
+        "p_iva": "16407461009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/italiana-servizi-soc.-coop."
+      },
+      {
+        "nome_azienda": "CFP Società Cooperativa",
+        "tipologia": "Movimentazione merci",
+        "p_iva": "15528951005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/cfp-società-cooperativa"
+      },
+      {
+        "nome_azienda": "Confcommercio Roma",
+        "tipologia": "Associazioni di categoria",
+        "p_iva": "80034670580",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/confcommercio-roma"
+      },
+      {
+        "nome_azienda": "CONSORZIO SCM Group Società consortile A R.L.",
+        "tipologia": "Movimentazione merci",
+        "p_iva": "16205281005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/consorzio-scm-group-società-consortile-a-r.l."
+      },
+      {
+        "nome_azienda": "GIMI Srl",
+        "tipologia": "Uffici",
+        "p_iva": "11861221007",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/gimi-srl"
+      },
+      {
+        "nome_azienda": "DIMENSIONE SERVIZI Società Cooperativa A R.L.",
+        "tipologia": "Servizi di Pulizia",
+        "p_iva": "06830851009",
+        "telefono": "0660503140",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/dimensione-servizi-società-cooperativa-a-r.l."
+      },
+      {
+        "nome_azienda": "NOVATRUCK Soc. Coop.",
+        "tipologia": "Logistica e stoccaggio",
+        "p_iva": "10062591002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/novatruck-soc.-coop."
+      },
+      {
+        "nome_azienda": "TACAR Srl",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "05637481002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/tacar-srl"
+      }
+    ]
+  },
+  {
+    "id": "Nodo_centrale_piattaforma_logistica",
+    "stand": "Nodo centrale piattaforma logistica",
+    "settore": "Piattaforma Logistica",
+    "venditori": [
+      {
+        "nome_azienda": "FIDALE MAURIZIO",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "9659951009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/fidale-maurizio"
+      }
+    ]
+  },
+  {
+    "id": "O",
+    "stand": "O",
+    "settore": "Centro Ingressi",
+    "venditori": [
+      {
+        "nome_azienda": "DIERRE DIMENSIONE RICAMBI Spa",
+        "tipologia": "Officina meccanica",
+        "p_iva": "01882951005",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/dierre-dimensione-ricambi-spa"
+      }
+    ]
+  },
+  {
+    "id": "P",
+    "stand": "P",
+    "settore": "Centro Ingressi",
+    "venditori": [
+      {
+        "nome_azienda": "MIA LAZIO Srl",
+        "tipologia": "Trattamento imballaggi non organici",
+        "p_iva": "14743161003",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mia-lazio-srl"
+      }
+    ]
+  },
+  {
+    "id": "Piattaforma_Logistica",
+    "stand": "Piattaforma Logistica",
+    "settore": "Piattaforma Logistica",
+    "venditori": [
+      {
+        "nome_azienda": "CONSETRA LOGISTICA Srl",
+        "tipologia": "Logistica e stoccaggio",
+        "p_iva": "14343741006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/consetra-logistica-srl"
+      },
+      {
+        "nome_azienda": "FRIGO TRANSPORTS ITALIA Roma Srl",
+        "tipologia": "Logistica e stoccaggio",
+        "p_iva": "04838140962",
+        "telefono": "0660503290",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/frigo-transports-italia-roma-srl"
+      }
+    ]
+  },
+  {
+    "id": "Q",
+    "stand": "Q",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "CALIFANO CARRELLI Spa",
+        "tipologia": "Carrelli elevatori",
+        "p_iva": "01314900596",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/califano-carrelli-spa"
+      }
+    ]
+  },
+  {
+    "id": "R",
+    "stand": "R",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "SUSA Spa",
+        "tipologia": "Magazzino non alimentare",
+        "p_iva": "148710544",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/susa-spa"
+      }
+    ]
+  },
+  {
+    "id": "S",
+    "stand": "S",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "GESCO Consorzio Cooperativo Società Cooperativa Agricola",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "02522130406",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/gesco-consorzio-cooperativo-società-cooperativa-agricola"
+      }
+    ]
+  },
+  {
+    "id": "T",
+    "stand": "T",
+    "settore": "Centro Ingressi",
+    "venditori": [
+      {
+        "nome_azienda": "AGENZIA DELLE DOGANE - DIREZIONE GENERALE PER IL LAZIO E UMBRIA",
+        "tipologia": "Servizi doganali",
+        "p_iva": "06409601009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/agenzia-delle-dogane---direzione-generale-per-il-lazio-e-umbria"
+      },
+      {
+        "nome_azienda": "NS Group Srl",
+        "tipologia": "Uffici",
+        "p_iva": "15414481000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/ns-group-srl"
+      },
+      {
+        "nome_azienda": "CAFFE' ALL'INGRESSO",
+        "tipologia": "Punto di ristoro",
+        "p_iva": "15027941002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/caffe'-all'ingresso"
+      },
+      {
+        "nome_azienda": "SAIM SERVICE Srl",
+        "tipologia": "Uffici",
+        "p_iva": "2399950597",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/saim-service-srl"
+      }
+    ]
+  },
+  {
+    "id": "U",
+    "stand": "U",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "LAZIO FRUTTA Srl",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "09484811006",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/lazio-frutta-srl"
+      }
+    ]
+  },
+  {
+    "id": "V",
+    "stand": "V",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "BIOSOLIDALE DISTRIBUZIONE Srl",
+        "tipologia": "Biologico, stoccaggio e vendita",
+        "p_iva": "08270961009",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/biosolidale-distribuzione-srl"
+      }
+    ]
+  },
+  {
+    "id": "X",
+    "stand": "X",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "LUK TRASPORTI DI LUCIA IPPOLITI",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "14917921000",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/luk-trasporti-di-lucia-ippoliti"
+      },
+      {
+        "nome_azienda": "PEWEX-AL.PA. Srl",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "01839841002",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/pewex-al.pa.-srl"
+      }
+    ]
+  },
+  {
+    "id": "Y",
+    "stand": "Y",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "CONOR Srl",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "04268110378",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/conor-srl"
+      }
+    ]
+  },
+  {
+    "id": "Z",
+    "stand": "Z",
+    "settore": "Area Industriale",
+    "venditori": [
+      {
+        "nome_azienda": "MANCINELLI DUE Srl",
+        "tipologia": "Magazzino alimentare",
+        "p_iva": "01527970691",
+        "telefono": "",
+        "email": "",
+        "link": "https://agroalimroma.it/rivenditore/mancinelli-due-srl"
+      }
+    ]
+  }
+]
